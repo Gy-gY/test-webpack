@@ -36,10 +36,10 @@
     "extraMetadata": {
       "main": "./build/main.js"
     },
-    "publish": {
+    "publish": [{
       "provider": "generic",
       "url": "http://cnbj1.fds.api.xiaomi.com/wms-pro-desktop/win/test/"
-    },
+    }],
     "directories": {
       "buildResources": "assets"
     },
