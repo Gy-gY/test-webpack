@@ -38,7 +38,7 @@
     },
     "publish": {
       "provider": "generic",
-      "url": "http://cdn./info-app-webfile/deploy/mioffice-visitor-web/"
+      "url": "http://cnbj1.fds.api.xiaomi.com/wms-pro-desktop/win/test/"
     },
     "directories": {
       "buildResources": "assets"
