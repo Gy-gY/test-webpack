@@ -17,7 +17,7 @@
     "dev": "concurrently \"cross-env BROWSER=none npm run start\" \"wait-on http://127.0.0.1:3000 && npm run ele\"",
     "pack": "electron-builder --dir",
     "dist": "electron-builder",
-    "release": "cross-env GH_TOKEN=ca70e0fbc83b5ddf42283dcc345281f8ffdc8600 electron-builder",
+    "release": "cross-env GH_TOKEN=91c2f56dbe59ec440415b10205ca40e1ad3f012f electron-builder",
     "prerelease": "npm run build && npm run buildMain",
     "prepack": "npm run build && npm run buildMain",
     "predist": "npm run build && npm run buildMain"
