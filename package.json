@@ -37,8 +37,7 @@
       "main": "./build/main.js"
     },
     "publish": [{
-      "provider": "generic",
-      "url": "http://cnbj1.fds.api.xiaomi.com/wms-pro-desktop/win/test/"
+      "provider": "generic"
     }],
     "directories": {
       "buildResources": "assets"
